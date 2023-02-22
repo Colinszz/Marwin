@@ -1,0 +1,14 @@
+<html>
+
+<title>Activity</title>
+
+		<head> 
+			<h1>Student's Information</h1>
+			<li>Mr. Energy Gap</li>
+			<li>2220</li>
+			<li>2nd Year</li>
+			<li>BSIT</li>
+<hr>
+		</head>
+
+</html>
